@@ -4,3 +4,8 @@
 
 # Adding an Image 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Adding a code block
+``` javascript
+var myVar = "Hello, world!";
+```
